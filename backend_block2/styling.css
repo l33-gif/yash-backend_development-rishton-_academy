@@ -1,0 +1,30 @@
+h1 {
+    color: rgb(230, 68, 68);
+}
+p {
+    color: black;
+    font-weight: bold;
+}
+
+body {
+    background-color: rgb(232, 236, 239);
+}
+span {
+    color: blue;
+}
+
+#paragraph1 {
+    color : red;
+}
+#paragraph2 {
+    color : blue;
+}
+#paragraph1 , #paragraph2 {
+    font-weight: bold;
+}
+#paragraph2 , #paragraph4 {
+    text-align: right;
+}
+.para {
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
